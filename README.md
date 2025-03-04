@@ -1,8 +1,3 @@
-# React + Vite
+# Under the same sky
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A website to promote the futuristic graphic novel by NBM group before its launch giving background about the characters in the story and the world of New Manchester in the 2070's. It was made with React and Tailwind.
